@@ -65,4 +65,10 @@ How is the staging area different from the working directory and the repository?
 
 > it allows you to bundle multiple files with a commit, useful for logical grouping
 
-> working directory is everything else what you don't want to commit (yet) so also allows you to selectively select what you want to have committed 
+> working directory is everything else what you don't want to commit (yet) so also allows you to selectively select what you want to have committed
+
+### reflection (12)
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+> by adding all the changes (files) needed for that fix or logical commit ... in the staging area and from there do a commit
