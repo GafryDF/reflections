@@ -85,3 +85,16 @@ How do the diagrams help you visualize the branch structure?
 
 > it makes it a lot easier to see who belongs to whom and who can be reached by whom...
 > and if its reconnected with master or still separated
+
+### reflection (25)
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+> Having added a new "feature/function" in this case coins to the master branche
+> It shows that an aditional code has been added to the main tree / branch...
+
+### reflection (32)
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+> It is quicker and if done correctly less time consuming, but it comes at a cost of less control and its hard (or even imposible) to merge with conflicts for a computer
