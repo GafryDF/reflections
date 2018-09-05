@@ -24,3 +24,9 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 > Much easier to check out the difference and then do the merge as a seperate action vs pull all on once action
+
+## reflection (25)
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+> Using share or email, but than required to communicate who does what and where. So this will be harder keeping versions in sync even with a central location useing a remote file store.. forget about change history...
