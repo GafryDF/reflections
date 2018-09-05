@@ -35,4 +35,4 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
-> I would make every big change a branch such as a new feature or some restructering. The only thing I maybe wouldn't do are typos and small fixes..., but will see after some usages if that is still the case
+> I would make every big change a branch such as a new feature or some restructering which has the benefit to be clearly defined than. Also it is easier that we the request feedback. The only thing I maybe wouldn't do are typos and small fixes..., but will see after some usages if that is still the case
